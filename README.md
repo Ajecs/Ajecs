@@ -3,7 +3,7 @@
 ```javascript
 const ajecs = {
   technologies: web,
-  passions: [web development, web design],
+  passions: [web development, UX design],
   code: [Javascript, HTML, CSS, PHP, Python],
   tools: [Vue, Vuetify, Nuxt, Quasar, Vuepress, Tailwindcss, Wordpress],
 }
