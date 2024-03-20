@@ -1,5 +1,6 @@
 <div id="header" align="center">
-    <img width="500" height="200" src="https://images.unsplash.com/photo-1680016661694-1cd3faf31c3a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <img width="49.5%" height="200" src="https://img.freepik.com/premium-photo/ui-ux-representations-with-smartphone_23-2150201879.jpg?w=1060">
+    <img width="49.5%" height="200" src="https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?t=st=1710896928~exp=1710900528~hmac=735fc27114527020b23f8d389109fa3721eb97f805d3a47d64f0240627972095&w=900">
 </div>
 ### Hi I'm Nicolás
 
