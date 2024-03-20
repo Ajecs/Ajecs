@@ -2,17 +2,25 @@
     <img width="49.5%" height="200" src="https://img.freepik.com/premium-photo/ui-ux-representations-with-smartphone_23-2150201879.jpg?w=1060">
     <img width="49.5%" height="200" src="https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?t=st=1710896928~exp=1710900528~hmac=735fc27114527020b23f8d389109fa3721eb97f805d3a47d64f0240627972095&w=900">
 </div>
-### Hi I'm Nicolás
+
+## Hi I'm Nicolás
+
+### Web Developer
 
 ```javascript
 const ajecs = {
   technologies: web,
-  passions: [web development, UX design],
+  passions: [web development, mobile development],
   code: [Javascript, HTML, CSS, PHP, Python],
   tools: [Vue, Vuetify, Nuxt, Quasar, Vuepress, Tailwindcss, Wordpress],
 }
 ```
 
+### UX designer
+
+- Skills: UX research, project management, Agile methodology. 
+- Tools: Figma, Adobe XD
+  
 <img src="" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 You can find me:
